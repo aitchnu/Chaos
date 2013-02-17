@@ -1,0 +1,1 @@
+{"rigidBodies":[{"name":"box","imagePath":null,"origin":{"x":0,"y":0},"polygons":[[{"x":0,"y":0.5},{"x":-0.0012500286102294922,"y":0},{"x":1.5,"y":0},{"x":1.5,"y":0.5}]],"circles":[],"shapes":[{"type":"POLYGON","vertices":[{"x":0,"y":0.5},{"x":-0.0012500286102294922,"y":0},{"x":1.5,"y":0},{"x":1.5,"y":0.5}]}]}],"dynamicObjects":[]}
